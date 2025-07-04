@@ -10,3 +10,7 @@ div{
 h3{
     color: rgb(0, 176, 117);
 }
+.comment{
+    background-color: blueviolet;
+    text-align: start;
+}
